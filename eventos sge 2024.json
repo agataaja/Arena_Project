@@ -1,0 +1,258 @@
+{
+  "World OG Qualifier": {
+    "id_sge": 99,
+    "descrição": "Torneio Internacional (UWW)",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "09/05/2024",
+    "Local": "Istanbul-Turkiye"
+  },
+  "U20 World Championships": {
+    "id_sge": 106,
+    "descrição": "Campeonato Mundial",
+    "tipo": "Internacional",
+    "age": "U20",
+    "Datas": "02/09/2024",
+    "Local": "Pontevedra - Espanha"
+  },
+  "U20 Pan-American Championships": {
+    "id_sge": 103,
+    "descrição": "Campeonato Pan-Americano",
+    "tipo": "Internacional",
+    "age": "U20",
+    "Datas": "11/07/2024",
+    "Local": "Lima - Peru"
+  },
+  "U17 World Championships": {
+    "id_sge": 105,
+    "descrição": "Campeonato Mundial",
+    "tipo": "Internacional",
+    "age": "U17",
+    "Datas": "19/08/2024",
+    "Local": "Amman - Jordan"
+  },
+  "U17 Pan-American Championships": {
+    "id_sge": 102,
+    "descrição": "Campeonato Pan-Americano",
+    "tipo": "Internacional",
+    "age": "U17",
+    "Datas": "27/06/2024",
+    "Local": "Santo Domingo - Dominican Republic"
+  },
+  "U15 Pan-American Championships": {
+    "id_sge": 101,
+    "descrição": "Campeonato Pan-Americano",
+    "tipo": "Internacional",
+    "age": "U15",
+    "Datas": "13/06/2024",
+    "Local": "San Salvador-El Salvador"
+  },
+  "U23 Pan American Championship": {
+    "id_sge": 122,
+    "descrição": "Campeonato Pan-Americano",
+    "tipo": "Internacional",
+    "age": "U23",
+    "Datas": "21/06/2024",
+    "Local": "Rio Negro - Colombia"
+  },
+  "Seniors Pan-American Championships": {
+    "id_sge": 95,
+    "descrição": "Campeonato Pan-Americano",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "21/02/2024",
+    "Local": "Acapulco-Mexico"
+  },
+  "Ranking Series - Zagreb Open": {
+    "id_sge": 91,
+    "descrição": "Ranking Series (UWW)",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "10/01/2024",
+    "Local": "Zagreb-Croácia"
+  },
+  "Pan-American OG Qualifier": {
+    "id_sge": 97,
+    "descrição": "Torneio Internacional (UWW)",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "28/02/2024",
+    "Local": "Acapulco-Mexico"
+  },
+  "Jogos Olímpicos Paris 2024": {
+    "id_sge": 104,
+    "descrição": "Jogos Olímpicos",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "05/08/2024",
+    "Local": "Paris - France"
+  },
+  "ISF Gymnasiade": {
+    "id_sge": 107,
+    "descrição": "Campeonato Mundial",
+    "tipo": "Internacional",
+    "age": "U17",
+    "Datas": "23/10/2024",
+    "Local": "Manama - Bahrein"
+  },
+  "Copa Brasil Internacional": {
+    "id_sge": 89,
+    "descrição": "Copa",
+    "tipo": "Nacional",
+    "age": "Seniors",
+    "Datas": "12/10/2024",
+    "Local": "A definir"
+  },
+  "Circuito Nacional Sul-Sudeste": {
+    "id_sge": 75,
+    "descrição": "Circuito",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "16/03/2024",
+    "Local": "Cubatão - SP"
+  },
+  "Circuito Nacional Norte-Nordeste": {
+    "id_sge": 80,
+    "descrição": "Circuito",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "15/06/2024",
+    "Local": "João Pessoa - PB"
+  },
+  "Circuito Nacional Centro-Oeste": {
+    "id_sge": 86,
+    "descrição": "Circuito",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "28/09/2024",
+    "Local": "Campo Grande - MS"
+  },
+  "CBI® de Wrestling Por Equipes Sub 15, 17, 20 (Semifinais)": {
+    "id_sge": 110,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "02/10/2024",
+    "Local": "a definir"
+  },
+  "CBI® de Wrestling Por Equipes Sub 15, 17, 20 (Finais)": {
+    "id_sge": 111,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "04/12/2024",
+    "Local": "a definir"
+  },
+  "CBI® de Wrestling Por Equipes Sub 15, 17, 20 (1º Etapa)": {
+    "id_sge": 109,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "03/08/2024",
+    "Local": "a definir"
+  },
+  "CBI Sênior por Equipes": {
+    "id_sge": 108,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "Seniors",
+    "Datas": "02/11/2024",
+    "Local": "a definir"
+  },
+  "CBI - Aline Silva": {
+    "id_sge": 84,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "Seniors",
+    "Datas": "14/09/2024",
+    "Local": "Cuiabá - MT"
+  },
+  "Campeonato Brasileiro Veteranos": {
+    "id_sge": 87,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "veterans-a",
+    "Datas": "02/11/2024",
+    "Local": "A definir"
+  },
+  "Campeonato Brasileiro U17": {
+    "id_sge": 82,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "U17",
+    "Datas": "24/05/2024",
+    "Local": "Aracaju - SE"
+  },
+  "Campeonato Brasileiro U15": {
+    "id_sge": 85,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "U15",
+    "Datas": "14/09/2024",
+    "Local": "Cuiabá - MT"
+  },
+  "Campeonato Brasileiro Sênior": {
+    "id_sge": 88,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "Seniors",
+    "Datas": "02/11/2024",
+    "Local": "A definir"
+  },
+  "Campeonato Brasileiro Interclubes U20": {
+    "id_sge": 79,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "U20",
+    "Datas": "03/05/2024",
+    "Local": "Serra - ES"
+  },
+  "Campeonato Brasileiro Interclubes U17": {
+    "id_sge": 78,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "U17",
+    "Datas": "03/05/2024",
+    "Local": "Serra - ES"
+  },
+  "Campeonato Brasileiro Interclubes U15": {
+    "id_sge": 77,
+    "descrição": "Inter Clubes",
+    "tipo": "Nacional",
+    "age": "U15",
+    "Datas": "03/05/2024",
+    "Local": "Serra- ES"
+  },
+  "Campeonato Brasileiro Infantil": {
+    "id_sge": 81,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "",
+    "Datas": "16/06/2024",
+    "Local": "João Pessoa - PB"
+  },
+  "Cameponato Brasileiro U20": {
+    "id_sge": 83,
+    "descrição": "Campeonato",
+    "tipo": "Nacional",
+    "age": "U20",
+    "Datas": "14/09/2024",
+    "Local": "Cuiabá - MT"
+  },
+  "Grand Prix de France Henri Deglane": {
+    "id_sge": 112,
+    "descrição": "Torneio Internacional (UWW)",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "19/01/2024",
+    "Local": "Nice - França"
+  },
+    "Ranking Series - Polyak Imre & Varga Janos Memorial": {
+    "id_sge": 120,
+    "descrição": "Ranking Series (UWW)",
+    "tipo": "Internacional",
+    "age": "Seniors",
+    "Datas": "06/06/2024",
+    "Local": "Budapest"
+  }
+}

@@ -1,0 +1,19 @@
+
+__pycache__
+/logs
+.log
+__init__.py
+test.json
+test.xlsx
+test event_results.xlsx
+~$test event_results.xlsx
+output_folder
+Refactoring
+xlsx
+estabelecimentos sge.xlsx
+eventos sge 2024.json
+campeonatos sge.json
+png to svg.py
+qr_code_flavio.png
+qr_code_linktree.png
+token.json
